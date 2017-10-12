@@ -1,5 +1,7 @@
 # Mining controller
 
+![Mining controller on NodeJS](https://raw.githubusercontent.com/bushev/mining-controller/master/screen-1.png)
+
 ## Extra info
 
 - gpio-admin uses PINS numbers match exactly
